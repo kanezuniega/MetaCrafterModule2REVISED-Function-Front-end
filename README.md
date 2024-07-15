@@ -185,6 +185,7 @@ You also need to download the MetaMask wallet extension since you'll need to cre
 2) NETWORKS
 3) ADD NETWORK MANUALLY
 4) Copy and paste the following:
+
 Network name: localhost 3000
 
 New RPC URL: http://127.0.0.1:8545/

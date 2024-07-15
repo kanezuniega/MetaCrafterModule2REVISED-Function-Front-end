@@ -186,19 +186,30 @@ You also need to download the MetaMask wallet extension since you'll need to cre
 3) ADD NETWORK MANUALLY
 4) Copy and paste the following:
 Network name: localhost 3000
+
 New RPC URL: http://127.0.0.1:8545/
+
 Chain ID: 31337
+
 Currency Symbol: ETH 
+
 ***DISREGARD THE WARNING TICKER SYMBOL DATA IS CURRENTLY UNAVAILABLE***
+
 Press OK.
+
 After you've done this part, proceed to the bottom of this README file.
 
 ## FUNCTIONS 
 1) Deposit - add 1 ETH to your account 
+
 2) Withdraw - withdraw 1 ETH from your account
+
 3) Borrow - Borrow 1 ETH from the ATM
+
 4) Transfer - Transfer 1 ETH to another account
+
 5) Logout - logout your MetaMask account from the ATM.
+
 ## Authors
 
 ZUNIEGA, Kane Nathaniel O.

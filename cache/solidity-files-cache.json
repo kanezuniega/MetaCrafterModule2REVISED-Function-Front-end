@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\KANE\\Desktop\\SCM-Starter\\contracts\\Assessment.sol": {
+      "lastModificationDate": 1720525581730,
+      "contentHash": "0681908692b2bce903aff89481d245da",
+      "sourceName": "contracts/Assessment.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Assessment"
+      ]
+    },
+    "C:\\Users\\KANE\\MetaCrafterETH-AVAX-Function-Frontend-5\\contracts\\Assessment.sol": {
+      "lastModificationDate": 1721068036011,
+      "contentHash": "1eeed189283812ff1254dd4736b53436",
+      "sourceName": "contracts/Assessment.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Assessment"
+      ]
+    }
+  }
+}

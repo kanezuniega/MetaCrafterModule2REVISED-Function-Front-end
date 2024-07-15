@@ -183,16 +183,17 @@ export default function HomePage() {
 You also need to download the MetaMask wallet extension since you'll need to create a test network. After downloading MetaMask Wallet, proceed to: 
 1) SETTING
 2) NETWORKS
-3) ADD NETWORK MANUALLY
-4) Copy and paste the following:
+3) ADD NETWORK 
+4) ADD NETWORK MANUALLY
+5) Copy and paste the following:
 
-Network name: localhost 3000
+***Network name:*** localhost 3000
 
-New RPC URL: http://127.0.0.1:8545/
+***New RPC URL:*** http://127.0.0.1:8545/
 
-Chain ID: 31337
+***Chain ID:*** 31337
 
-Currency Symbol: ETH 
+***Currency Symbol:*** ETH 
 
 ***DISREGARD THE WARNING TICKER SYMBOL DATA IS CURRENTLY UNAVAILABLE***
 
